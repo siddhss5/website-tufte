@@ -2,6 +2,7 @@
 layout: default
 title: Latest
 ---
+<a href="https://twitter.com/siddhss5?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @siddhss5</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 {% marginfigure 'mf-siddh' 'assets/img/siddh.jpg' ''  %}
 I am the Boeing Endowed Professor at the [Paul G. Allen School of Computer Science & Engineering](https://www.cs.washington.edu/) at the [University of Washington](https://www.washington.edu/). I moved to UW in 2017 after 18 years{% sidenote 'sn-geekwire' 'GeekWire has a couple of articles about the [move](https://www.geekwire.com/2017/robotics-expert-moves-entire-team-university-washington-including-famous-oreo-cracking-robot/) and my continued love for [Pittsburgh](https://www.geekwire.com/2018/pittsburgh-profile-robotics-expert-sidd-srinivasa-love-steel-city-leap-seattle/).'%} at [The Robotics Institute](https://www.ri.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/). I founded the 
@@ -36,6 +37,5 @@ I have been [live on the BBC](https://twitter.com/HERB_UW/status/931711971732307
 Nowadays, I like to [run competitively](https://www.athlinks.com/athletes/130400313). I captained the CMU squash team, and played tennis and badminton for IIT Madras.
 
 To learn more about my work, visit my [lab](https://personalrobotics.cs.washington.edu/), watch our [robot videos](https://personalrobotics.cs.washington.edu/videos/), or listen to my seminars on [Human-Robot Interaction at Geogia Tech](https://mediaspace.gatech.edu/media/Physics-based+Manipulation+with+and+Around+People+-+Siddhartha+Srinivasa/), [Physics-Based Manipulation at Harvard](https://video.seas.harvard.edu/media/%5BCS%5D+2016-09-15+Siddhartha+Srinivasa/1_a0a0amln/13151421), or my farewell seminar at [CMU](https://www.youtube.com/watch?v=--PIIkzufaQ).  
-
 
 

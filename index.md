@@ -16,7 +16,7 @@ I enjoy proving theorems{% sidenote 'sn-lazy' 'Our recent work on the [query com
 [BIT*](https://personalrobotics.cs.washington.edu/publications/gammell2015bitstar.pdf), ...), 
 but I'm most passionate about building end-to-end systems 
 ([HERB](https://personalrobotics.cs.washington.edu/publications/srinivasa2012herb.pdf)
-{% marginfigure 'mf-herb-oreo' 'assets/img/herb-oreo.gif' 'HERB starred in an [Oreo commerical](https://vimeo.com/63348513)!'   %},
+{% marginfigure 'mf-herb-oreo' 'assets/img/herb-oreo.gif' 'HERB starred in an [Oreo commercial](https://vimeo.com/63348513)!'   %},
 [ADA](https://personalrobotics.cs.washington.edu/publications/herlant2016modeswitching.pdf)
 {% marginfigure 'mf-ada-feeding' 'assets/img/ada-feeding.jpeg' 'ADA was featured on the [IEEE The Institute](http://theinstitute.ieee.org/technology-topics/robotics/ieee-members-build-robots-to-help-people-with-disabilities-live-independently)'.%}
 ,
@@ -32,10 +32,10 @@ Together we have developed software frameworks such as [OpenRAVE](http://openrav
 I also enjoy consulting with industry. 
 
 I have been [live on the BBC](https://twitter.com/HERB_UW/status/931711971732307968), on the cover of [National Geographic](https://www.nationalgeographic.com/magazine/2011/08/robots/), and have an [IMDB page,](https://www.imdb.com/name/nm7961061/)
-{% marginfigure 'mf-chisel' 'assets/img/sidd-natgeo-rees.gif' '[_Going Deep_ with David Rees](https://www.businessinsider.com.au/robot-herb-opens-a-refrigerator-door-2014-7).'%} but my robot HERB is way [more famous](https://personalrobotics.cs.washington.edu/press/). I am deeply committed to STEM, and always excited to talk about robots to a [broad audience](https://www.youtube.com/watch?v=25OQuThxKCc).
+{% marginfigure 'mf-rees' 'assets/img/sidd-natgeo-rees.gif' '[_Going Deep_ with David Rees](https://www.businessinsider.com.au/robot-herb-opens-a-refrigerator-door-2014-7).'%} but my robot HERB is way [more famous](https://personalrobotics.cs.washington.edu/press/). I am deeply committed to STEM, and always excited to talk about robots to a [broad audience](https://www.youtube.com/watch?v=25OQuThxKCc).
 
 Nowadays, I like to [run competitively](https://www.athlinks.com/athletes/130400313). I captained the CMU squash team, and played tennis and badminton for IIT Madras.
 
-To learn more about my work, visit my [lab](https://personalrobotics.cs.washington.edu/), watch our [robot videos](https://personalrobotics.cs.washington.edu/videos/), or listen to my seminars on [Human-Robot Interaction at Geogia Tech](https://mediaspace.gatech.edu/media/Physics-based+Manipulation+with+and+Around+People+-+Siddhartha+Srinivasa/), [Physics-Based Manipulation at Harvard](https://video.seas.harvard.edu/media/%5BCS%5D+2016-09-15+Siddhartha+Srinivasa/1_a0a0amln/13151421), or my farewell seminar at [CMU](https://www.youtube.com/watch?v=--PIIkzufaQ).  
+To learn more about my work, visit my [lab](https://personalrobotics.cs.washington.edu/), watch our [robot videos](https://personalrobotics.cs.washington.edu/videos/), or listen to my seminars on [Human-Robot Interaction at Georgia Tech](https://mediaspace.gatech.edu/media/Physics-based+Manipulation+with+and+Around+People+-+Siddhartha+Srinivasa/), [Physics-Based Manipulation at Harvard](https://video.seas.harvard.edu/media/%5BCS%5D+2016-09-15+Siddhartha+Srinivasa/1_a0a0amln/13151421), or my farewell seminar at [CMU](https://www.youtube.com/watch?v=--PIIkzufaQ).  
 
 

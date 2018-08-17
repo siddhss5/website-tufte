@@ -1,6 +1,6 @@
-baseurl: 
+# baseurl: 
 # If pushing to UW:
-# baseurl: https://homes.cs.washington.edu/~siddh
+baseurl: https://homes.cs.washington.edu/~siddh
 # jekyll build
 # scp -r _site/* siddh@recycle.cs.washington.edu:public_html/
 title: Siddhartha S. Srinivasa

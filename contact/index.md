@@ -16,5 +16,3 @@ Paul G. Allen School of Computer Science & Engineering,
 University of Washington,  
 Box 352350,  
 Seattle WA 98195-2350  
-
-Testing. Testing. Testing.

@@ -27,7 +27,7 @@ and the [Mars rover](https://personalrobotics.cs.washington.edu/publications/kin
 
 I have led large projects, including [Intel's research in robotics](https://www.youtube.com/watch?v=P-4PTyQ8RX8), the [Quality of Life Technologies NSF ERC](https://personalrobotics.cs.washington.edu/publications/srinivasa2012herb.pdf), the [DARPA ARM-S](https://personalrobotics.cs.washington.edu/publications/king2013pregrasp.pdf), [DARPA Robotics Challenge](https://personalrobotics.cs.washington.edu/publications/dellin2014guided.pdf), and most recently the HONDA Curious Minded Machine program. I was an author of the [Roadmap for US Robotics](http://archive2.cra.org/ccc/files/docs/2013-Robotics-Roadmap) that was presented to Congress in 2013, ran [RSS Robotics: Science and Systems 2017](http://rss2017.lids.mit.edu/), and am an Editor for [The International Journal of Robotics Research](http://journals.sagepub.com/home/ijr).
 
-My lab has over [100 alumni](https://personalrobotics.cs.washington.edu/people/). My PhD students and postdocs are faculty at top schools (Berkeley, CMU, Michigan, USC, ...), industry (Boston Dynamics, Facebook, Google, iRobot, Waymo, ...), and startups. 
+My lab has over [100 alumni](https://personalrobotics.cs.washington.edu/people/). My PhD students and postdocs are faculty at top schools (Berkeley, CMU, Michigan, Technion, USC, ...), industry (Boston Dynamics, Facebook, Google, iRobot, Waymo, ...), and startups. 
 Together we have developed software frameworks such as [OpenRAVE](http://openrave.org/) and [DART](https://dartsim.github.io/).
 I also enjoy consulting with industry. 
 

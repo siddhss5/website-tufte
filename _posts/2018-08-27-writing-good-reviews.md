@@ -38,10 +38,10 @@ In addition to the usual conflict rules, I'd recommend another simple rule: if y
 
 Finally, I'd like to leave you with perhaps the most [succinct summary](https://rationalwiki.org/wiki/Rapoport%27s_Rules) on how to compose a critical commentary:
 
-1. You should attempt to re-express your target’s position so clearly, vividly, and fairly that your target says, "_Thanks, I wish I’d thought of putting it that way._"
+ - You should attempt to re-express your target’s position so clearly, vividly, and fairly that your target says, "_Thanks, I wish I’d thought of putting it that way._"
 
-2. You should list any points of agreement (especially if they are not matters of general or widespread agreement).
+ - You should list any points of agreement (especially if they are not matters of general or widespread agreement).
 
-3. You should mention anything you have learned from your target.
+ - You should mention anything you have learned from your target.
 
-4. Only then are you permitted to say so much as a word of rebuttal or criticism.
+ - Only then are you permitted to say so much as a word of rebuttal or criticism.

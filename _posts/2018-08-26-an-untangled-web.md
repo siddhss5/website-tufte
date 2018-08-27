@@ -1,6 +1,6 @@
 ---
 title: A Tangled Web, Slightly Untangled
-layout: post
+layout: post-full
 ---
 I finally updated my website to the 21st century, and decided to go full Computer Scientist on it.
 I was looking for something that was full-featured ([markdown](https://daringfireball.net/projects/markdown/), [math](https://www.mathjax.org/)), 

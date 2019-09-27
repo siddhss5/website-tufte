@@ -6,13 +6,15 @@ title: CV
 
 
 ## Short Bio for Seminars
-Siddhartha Srinivasa is the Boeing Endowed Professor at The Paul G. Allen School of Computer Science & Engineering at the University of Washington, and an IEEE Fellow. He is a full-stack roboticist, with the goal of enabling robots to perform complex manipulation tasks under uncertainty and clutter, with and around people. To this end, he founded the Personal Robotics Lab in 2005. He was a PI on the Quality of Life Technologies NSF ERC, DARPA ARM-S and the DARPA Robotics Challenge, has built several robots (HERB, ADA, CHIMP), and has written software frameworks (OpenRAVE, DART) and best-paper award winning algorithms (CBiRRT, CHOMP, BIT*, Legibility) used extensively by roboticists around the world. Sidd received a B.Tech in Mechanical Engineering from the Indian Institute of Technology Madras in 1999, and a PhD in 2005 from the Robotics Institute at Carnegie Mellon University. He played badminton and tennis for IIT Madras, captained the CMU squash team, and lately runs competitively.
+Siddhartha Srinivasa is the Boeing Endowed Professor at The Paul G. Allen School of Computer Science & Engineering at the University of Washington, and an IEEE Fellow. He is a full-stack roboticist, with the goal of enabling robots to perform complex manipulation tasks under uncertainty and clutter, with and around people. To this end, he founded the Personal Robotics Lab in 2005. He was a PI on the Quality of Life Technologies NSF ERC, DARPA ARM-S and the DARPA Robotics Challenge, has built several robots (HERB, ADA, CHIMP, MuSHR), and has written software frameworks (OpenRAVE, DART) and best-paper award winning algorithms (CBiRRT, CHOMP, BIT*, Legibility) used extensively by roboticists around the world. Sidd received a B.Tech in Mechanical Engineering from the Indian Institute of Technology Madras in 1999, and a PhD in 2005 from the Robotics Institute at Carnegie Mellon University. He played badminton and tennis for IIT Madras, captained the CMU squash team, and lately runs competitively.
 
 ## Awards
 
 
 | Year(s)   |Award           | Note  |
 |----------:|:---------------|:------|
+|2019|ICAPS Best Student Paper Award Winner|[Generalized Lazy Search for Robot Motion Planning: Interleaving Search and Edge Evaluation via Event-based Toggles](https://personalrobotics.cs.washington.edu/publications/mandalika2019gls.pdf)|
+|2019|ACM/IEEE HRI Best Paper Award Winner for Technical Advances in HRI|[Transfer depends on Acquisition: Analyzing Manipulation Strategies for Robotic Feeding](https://personalrobotics.cs.washington.edu/publications/gallenberger2019skewering.pdf)|
 |2018       |IEEE Fellow     |[For _contributions to robotic manipulation and human-robot interaction_](https://www.washington.edu/news/2017/11/28/two-uw-professors-elevated-to-ieee-fellows/)|
 |2018|ICAPS Best Paper Award Winner|[The Provable Virtue of Laziness in Motion Planning](https://personalrobotics.cs.washington.edu/publications/haghtalab2018laziness.pdf)|
 |2018| ACM/IEEE HRI Best Paper Award Finalist|[Planning with Trust for Human-Robot Collaboration](https://personalrobotics.cs.washington.edu/publications/chen2018trust.pdf)|

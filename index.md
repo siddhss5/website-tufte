@@ -10,17 +10,20 @@ I am the Boeing Endowed Professor at the [Paul G. Allen School of Computer Scien
 
 {% newthought 'I am a full-stack roboticist.' %} 
 
-I enjoy proving theorems{% sidenote 'sn-lazy' 'Our recent work on the [query complexity of lazy motion planning](https://personalrobotics.cs.washington.edu/publications/haghtalab2018laziness.pdf) won the best paper award at [ICAPS 2018](http://icaps18.icaps-conference.org/).'%} and designing algorithms 
+I enjoy proving theorems{% sidenote 'sn-lazy' 'Our work on Lazy Planning has won back to back best paper awards at [ICAPS 2018](https://personalrobotics.cs.washington.edu/publications/haghtalab2018laziness.pdf) and [ICAPS 2019](https://personalrobotics.cs.washington.edu/publications/mandalika2019gls.pdf).'%} and designing algorithms 
 ([CBiRRT](https://personalrobotics.cs.washington.edu/publications/berenson2011task.pdf),
 [CHOMP](https://personalrobotics.cs.washington.edu/publications/zucker2013chomp.pdf),
-[BIT*](https://personalrobotics.cs.washington.edu/publications/gammell2015bitstar.pdf), ...), 
+[BIT*](https://personalrobotics.cs.washington.edu/publications/gammell2015bitstar.pdf),
+[Legibility](https://personalrobotics.cs.washington.edu/publications/dragan2013legibility.pdf) ...), 
 but I'm most passionate about building end-to-end systems 
 ([HERB](https://personalrobotics.cs.washington.edu/publications/srinivasa2012herb.pdf)
 {% marginfigure 'mf-herb-oreo' 'assets/img/herb-oreo.gif' 'HERB starred in an [Oreo commercial](https://vimeo.com/63348513)!'   %},
-[ADA](https://personalrobotics.cs.washington.edu/publications/herlant2016modeswitching.pdf)
-{% marginfigure 'mf-ada-feeding' 'assets/img/ada-feeding.jpeg' 'ADA was featured on the [IEEE The Institute](http://theinstitute.ieee.org/technology-topics/robotics/ieee-members-build-robots-to-help-people-with-disabilities-live-independently)'.%}
+[ADA](https://personalrobotics.cs.washington.edu/blog/food-manipulation/)
+{% marginfigure 'mf-ada-feeding' 'assets/img/ada_feeding.gif' 'ADA was featured on [IEEE](http://theinstitute.ieee.org/technology-topics/robotics/ieee-members-build-robots-to-help-people-with-disabilities-live-independently) and the [BBC](https://www.bbc.com/news/av/technology-47723167/robot-arm-can-feed-people-with-mobility-issues)'.%}
 ,
-[CHIMP](https://personalrobotics.cs.washington.edu/publications/stentz2015chimp.pdf), ...) that integrate machine learning, perception, planning, and control in the real world. 
+[CHIMP](https://personalrobotics.cs.washington.edu/publications/stentz2015chimp.pdf),
+[MuSHR](https://mushr.io/),
+...) that integrate machine learning, perception, planning, and control in the real world. 
 My algorithms have run on the [NASA Robonaut](https://personalrobotics.cs.washington.edu/publications/koval2015mpf.pdf)
 and the [Mars rover](https://personalrobotics.cs.washington.edu/publications/king2016objectcentric.pdf), and have been used by [Google](https://personalrobotics.cs.washington.edu/publications/klingensmith2015chisel.pdf),
 {% marginfigure 'mf-chisel' 'assets/img/chisel.png' 'CHISEL performs room-sized 3D reconstruction _real-time_ on the [Google Project Tango mobile phone](https://www.youtube.com/watch?v=3BNOsxMZD14).'%} among others.
@@ -29,6 +32,8 @@ I have led large projects, including [Intel's research in robotics](https://www.
 
 My lab has over [100 alumni](https://personalrobotics.cs.washington.edu/people/). My PhD students and postdocs are faculty at top schools (Berkeley, CMU, Michigan, Technion, USC, ...), industry (Boston Dynamics, Facebook, Google, iRobot, Waymo, ...), and startups. 
 Together we have developed software frameworks such as [OpenRAVE](http://openrave.org/) and [DART](https://dartsim.github.io/).
+
+I am a _first wave founder_ of [Berkshire Grey](https://www.berkshiregrey.com), which focuses on material handling.
 I also enjoy consulting with industry. 
 
 I have been [live on the BBC](https://twitter.com/HERB_UW/status/931711971732307968), on the cover of [National Geographic](https://www.nationalgeographic.com/magazine/2011/08/robots/), and have an [IMDB page,](https://www.imdb.com/name/nm7961061/)
@@ -36,6 +41,6 @@ I have been [live on the BBC](https://twitter.com/HERB_UW/status/931711971732307
 
 Nowadays, I like to [run competitively](https://www.athlinks.com/athletes/130400313). I captained the CMU squash team, and played tennis and badminton for IIT Madras.
 
-To learn more about my work, visit my [lab](https://personalrobotics.cs.washington.edu/), watch our [robot videos](https://personalrobotics.cs.washington.edu/videos/), or listen to my seminars on [Human-Robot Interaction at Georgia Tech](https://mediaspace.gatech.edu/media/Physics-based+Manipulation+with+and+Around+People+-+Siddhartha+Srinivasa/), [Physics-Based Manipulation at Harvard](https://video.seas.harvard.edu/media/%5BCS%5D+2016-09-15+Siddhartha+Srinivasa/1_a0a0amln/13151421), or my farewell seminar at [CMU](https://www.youtube.com/watch?v=--PIIkzufaQ).  
+To learn more about my work, visit my [lab](https://personalrobotics.cs.washington.edu/), watch our [robot videos](https://personalrobotics.cs.washington.edu/videos/), or listen to my seminars on [Human-Robot Interaction at Georgia Tech](https://mediaspace.gatech.edu/media/Physics-based+Manipulation+with+and+Around+People+-+Siddhartha+Srinivasa/), [Physics-Based Manipulation at Harvard](https://video.seas.harvard.edu/media/%5BCS%5D+2016-09-15+Siddhartha+Srinivasa/1_a0a0amln/13151421), or my farewell seminar at [CMU](https://www.youtube.com/watch?v=--PIIkzufaQ). Or, you can watch me being interviewed by kids about [robots](https://www.youtube.com/watch?v=MAK3mVQwHU0)! 
 
 

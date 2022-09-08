@@ -1,9 +1,10 @@
-baseurl: "/website-tufte"
 title: Siddhartha S. Srinivasa
 subtitle: Sidd's personal website
 author: Siddhartha Srinivasa
 simple_search: http://google.com/search
 description: Research notes, papers, and robot videos 
+baseurl: "/website-tufte" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 name: siddh
 markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"

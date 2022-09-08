@@ -1,10 +1,6 @@
 baseurl: ''
-# If pushing to UW:
-# baseurl: https://homes.cs.washington.edu/~siddh
-# jekyll build
-# scp -r _site/* siddh@recycle.cs.washington.edu:public_html/
 title: Siddhartha S. Srinivasa
-subtitle: Boeing Endowed Professor in Robotics at University of Washington
+subtitle: Sidd's personal website
 author: Siddhartha Srinivasa
 simple_search: http://google.com/search
 description: Research notes, papers, and robot videos 
@@ -21,6 +17,14 @@ post:
 page:
   template: _page.txt
   extension: md
-editor: gvim
 git:
   branch: master
+twitter_username: siddhss5
+github_username:  siddhss5
+
+# Build settings
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
+
+remote_theme: clayh53/tufte-jekyll
